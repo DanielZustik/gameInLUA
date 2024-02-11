@@ -17,4 +17,4 @@ The game involves collision detection and resolution of objects, gravity, simple
 The collision detection and resolution logic, which is quite complex and is based on the "How to LOVE" tutorial, presented significant challenges. I had a hard time modifying it without causing breakdowns, especially to make it work for picking up items and similar interactions. To overcome this, I had to implement a workaround by adding an otherwise unnecessary layer. This involved calculating distances and deciding when it was time to destroy an object or pick it up.
 
 ## Credits
-This game is heavily based on the tutorial ["How to LOVE"](https://sheepolution.com/learn/book/contents) by Sheepolution.
+This game is heavily based (alg. logic wise) on the tutorial ["How to LOVE"](https://sheepolution.com/learn/book/contents) by Sheepolution.
